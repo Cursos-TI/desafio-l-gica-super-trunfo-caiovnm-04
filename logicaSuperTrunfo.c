@@ -135,7 +135,7 @@ int main()
               }
               else if (carta1.populacao < carta2.populacao)
               {
-                     printf("+++ Carta 2 venceuc+++\n");
+                     printf("+++ Carta 2 venceu +++\n");
               }
               else 
               {
